@@ -3,10 +3,6 @@
 
 This repository contains resources related to [Algorithms for Optimization]([https://algorithmsbook.com/decisionmaking](https://algorithmsbook.com/optimization)) by Mykel J. Kochenderfer and Tim A. Wheeler (MIT Press, 2019).
 
-## Problem definitions
-
-The problem environments used in the book (summarized in Appendix F) have been implemented in the Julia package [DecisionMakingProblems.jl](https://github.com/algorithmsbooks/DecisionMakingProblems.jl).
-
 ## Code
 
 The code for generating all figures can be found in this [repository](https://github.com/algorithmsbooks/algforopt-notebooks).
