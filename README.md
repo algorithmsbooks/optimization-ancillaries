@@ -5,7 +5,7 @@ This repository contains resources related to [Algorithms for Optimization]([htt
 
 ## Code
 
-The code for generating all figures can be found in this [repository](https://github.com/algorithmsbooks/algforopt-notebooks).
+The code for generating all figures can be found in this [repository](https://github.com/algorithmsbooks/algforopt-notebooks). An unofficial translation into Python is provided in this [repository](https://github.com/griffinbholt/optimization-code-py).
 
 ## Slides
 
