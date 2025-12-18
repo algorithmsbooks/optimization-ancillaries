@@ -19,6 +19,7 @@ As more universities begin offering courses based on the textbook (or has as rec
 2. Purdue University, [CS520: Computational Methods in Optimization](https://www.cs.purdue.edu/homes/dgleich/cs520-2023/readings.html)
 3. Carnegie Mellon University, [10-425/10-625: Introduction to Convex Optimization](https://www.cs.cmu.edu/~mgormley/courses/10425/syllabus.html)
 4. Johns Hopkins University, [685.621.81 - Algorithms for Data Science](https://apps.ep.jhu.edu/syllabus/spring-2024/685.621.85)
+5. Paris Dauphine University, [Algorithms for Continuous Optimization](https://dauphine.psl.eu/en/training/masters-degrees/computer-science/m2-modo/program#label_modal_frlsf6mjds)
 
 Feel free to file a pull request or issue to add additional courses that use the textbook.
 
