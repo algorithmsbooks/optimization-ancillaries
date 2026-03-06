@@ -23,6 +23,17 @@ As more universities begin offering courses based on the textbook (or has as rec
 
 Feel free to file a pull request or issue to add additional courses that use the textbook.
 
+## Citation
+
+```bibtex
+@Book{Kochenderfer2019,
+  author    = {Mykel J. Kochenderfer and Tim A. Wheeler},
+  publisher = {MIT Press},
+  title     = {Algorithms for Optimization},
+  year      = {2019}
+}
+```
+
 ## Errata
 
 Errata to the print version can be found [here](https://github.com/algorithmsbooks/optimization). You may also file issue reports there.
